@@ -10,16 +10,30 @@
 
 ## --------------------------------------------------------------------------------
 
-## Process in project
-### :large_blue_circle: Design ---:heavy_check_mark:
-### :large_blue_circle: Coding --- processing
-### :large_blue_circle: Debug --- processing
-### :large_blue_circle: Testing --- processing
-### :large_blue_circle: Gantt chart --- :heavy_check_mark:
-### :large_blue_circle: Model --- :heavy_check_mark:
-### :large_blue_circle: Report --- processing
-### :large_blue_circle: Submit --- processing
-
+# Process 
+* Prepare
+  * brainstorms
+* Design
+  * Gantt chart
+  * Model Design
+* Development
+  * Coding
+  * Debug
+  * Test
+* Report
+  * Model Design
+  * Gantt Chart
+    * Planing
+  * Equipment
+    * Device 
+    * Architectural
+    * Block Diagram
+  * Pin
+    * Pins used in projects
+  * Flow chart
+  * Code
+  * Problem and Solve
+  * Summary
 ## ---------------------------------------------------------------------------------
 
 ## Gantt Chart
