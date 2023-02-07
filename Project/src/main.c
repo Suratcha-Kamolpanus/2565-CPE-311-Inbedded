@@ -89,7 +89,7 @@ int main(){
 
       /* check temparature is over limit? */
 			if(temperature > 28){
-				duty = ((int)temperature - 28) * 20;
+				duty = ((int)temperature - 28) * 10;
 				LL_TIM_OC_SetCompareCH2(TIM4, duty);
 				LL_GPIO_SetOutputPin(MOTOR_ENABLE_PORT, MOTOR_ENABLE_PIN);		/* Enable Motor */
 				LL_GPIO_SetOutputPin(LED_PORT, LED_PIN);											/* Turn ON LED */
