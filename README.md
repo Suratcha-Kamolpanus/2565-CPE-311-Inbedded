@@ -37,7 +37,8 @@
 ## ---------------------------------------------------------------------------------
 
 ## Gantt Chart
-[![L1BAVD.png](https://sv1.picz.in.th/images/2023/02/01/L1BAVD.png)](https://www.picz.in.th/image/L1BAVD)
+### Final
+[![LjSn6P.png](https://sv1.picz.in.th/images/2023/02/10/LjSn6P.png)](https://www.picz.in.th/image/LjSn6P)
 
 
 
