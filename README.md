@@ -2,7 +2,7 @@
 # :hear_no_evil: Hello We are Inbedded this is our github :hear_no_evil:
 
 
-## Group memeber
+## Group members
 ### 1. Anusit  -----               Coding
 ### 2. Nanthawat  ------            Assistant all
 ### 3. Nattakit  ----             Design
